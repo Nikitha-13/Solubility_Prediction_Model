@@ -6,7 +6,7 @@ Project Structure:
 Data Loading: The Delaney solubility dataset with molecular descriptors is loaded into a Pandas DataFrame.
 
 Data Preparation: The target variable 'logS' (solubility) is extracted, and the feature matrix X is created. 
-
+ 
 Data Splitting: The dataset is split into training and testing sets (80% training, 20% testing).
 
 Linear Regression Model: A Linear Regression model is trained, and solubility is predicted for training and testing sets. 
