@@ -20,4 +20,4 @@ Accurate solubility prediction has practical applications in pharmaceuticals, ch
 
 If you have any queries or facing any issues please feel free to contact me at pindinikitha00@gmail.com or at https://www.linkedin.com/in/Nikitha-pindi, I would be happy to be a part of your learning joirney. If you have any suggestions on improving my content I'm happy to apply those for my improvement.
 
-Have a Great Learning :)
+Have a Great Learning :) 
