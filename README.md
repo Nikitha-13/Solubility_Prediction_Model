@@ -3,7 +3,7 @@ Overview:
 This project focuses on predicting solubility using machine learning models based on molecular descriptors. Solubility prediction is crucial in various industries, including pharmaceuticals, chemistry, and material science.
 
 Project Structure:
-Data Loading: The Delaney solubility dataset with molecular descriptors is loaded into a Pandas DataFrame.
+Data Loading: The Delaney solubility dataset with molecular descriptors is loaded into a Pandas DataFrame. 
  
 Data Preparation: The target variable 'logS' (solubility) is extracted, and the feature matrix X is created.   
  
