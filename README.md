@@ -8,7 +8,7 @@ Data Loading: The Delaney solubility dataset with molecular descriptors is loade
 Data Preparation: The target variable 'logS' (solubility) is extracted, and the feature matrix X is created.   
  
 Data Splitting: The dataset is split into training and testing sets (80% training, 20% testing).
-
+ 
 Linear Regression Model: A Linear Regression model is trained, and solubility is predicted for training and testing sets.   
  
 Random Forest Regressor Model: A Random Forest Regressor model is trained with specified parameters, and solubility is predicted.
