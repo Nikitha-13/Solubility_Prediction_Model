@@ -1,4 +1,4 @@
-## Solubility Prediction Project
+ ## Solubility Prediction Project
 Overview:
 This project focuses on predicting solubility using machine learning models based on molecular descriptors. Solubility prediction is crucial in various industries, including pharmaceuticals, chemistry, and material science.
 
